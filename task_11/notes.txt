@@ -1,0 +1,36 @@
+TIMEFLOW — LONG TEXT TEST
+
+This is a demonstration of how TimeFlow handles a long text file without making the text unreadably small.
+
+The application reads the contents of the user-provided text file and converts the information into a desktop wallpaper.
+
+The wallpaper also contains a live clock that updates every second.
+
+A long file should not break the application. Instead, the text is automatically wrapped and divided into multiple pages so that the content remains readable.
+
+TimeFlow continuously monitors the text file for modifications. Whenever the content changes, the wallpaper is regenerated automatically.
+
+This project was created as part of the amFOSS Task 11 challenge.
+
+The goal was to combine Python, file handling, image generation and Linux desktop interaction into one useful application.
+
+Important tasks:
+- Complete DSA revision
+- Practice Python
+- Finish Task 11
+- Review Java concepts
+- Complete pending assignments
+- Take a proper break
+- Get enough sleep
+
+The wallpaper can be used for study plans, reminders, schedules, notes and daily goals.
+
+Even when the file becomes long, the application continues working normally.
+
+The content is automatically wrapped and divided into readable pages.
+
+The page number is displayed at the bottom of the wallpaper.
+
+This allows significantly more information to be displayed without making the text too small.
+
+TIMEFLOW TEST COMPLETE.
